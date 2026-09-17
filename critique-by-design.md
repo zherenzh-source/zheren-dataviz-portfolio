@@ -20,7 +20,7 @@ I think **small multiple line charts** with the four age groups in the same orde
 
 ## Step three: Sketch a solution
 
-![Initial sketches](images/sketches.png)
+![Initial sketches](dataviz_redesign.png)
 
 I was trying to explore if grouping different patterns together would make the point stand out. Since the chart is intending to show the perspective difference between younger and older people. I decided to group the small multiple charts into 4 categories:
 
@@ -59,48 +59,6 @@ Both viewers found the small-multiple format difficult to take in. This suggeste
 
 ### Revising the design: a multiple-line chart
 
-<div class="tableauPlaceholder" id="viz1789682790002" style="position: relative">
-  <noscript>
-    <a href="https://public.tableau.com/views/Kidult_Line/Sheet12">
-      <img
-        alt="Do younger Britons see 'kidult' hobbies as less childish? Line chart trial."
-        src="https://public.tableau.com/static/images/Ki/Kidult_Line/Sheet12/1_rss.png"
-        style="border: none"
-      />
-    </a>
-  </noscript>
-
-  <object class="tableauViz" style="display: none">
-    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-    <param name="embed_code_version" value="3" />
-    <param name="site_root" value="" />
-    <param name="name" value="Kidult_Line/Sheet12" />
-    <param name="tabs" value="no" />
-    <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/Ki/Kidult_Line/Sheet12/1.png" />
-    <param name="animate_transition" value="yes" />
-    <param name="display_static_image" value="yes" />
-    <param name="display_spinner" value="yes" />
-    <param name="display_overlay" value="yes" />
-    <param name="display_count" value="yes" />
-    <param name="language" value="en-US" />
-    <param name="filter" value="publish=yes" />
-  </object>
-</div>
-
-<script type="text/javascript">
-  (function () {
-    var divElement = document.getElementById("viz1789682790002");
-    var vizElement = divElement.getElementsByTagName("object")[0];
-
-    vizElement.style.width = "100%";
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-
-    var scriptElement = document.createElement("script");
-    scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-  })();
-</script>
 
 With the feedback received, I set out to revise the design. First of all, I still wanted to show the pattern comparison across different hobbies, so I thought a multiple-line graph comparing the views of different age groups across hobbies would be useful. The x-axis shows all the hobbies sorted in descending order of the overall percentage viewing them as entirely or mostly for children. The y-axis shows the percentage-point difference between each age group and the overall public. The overall percentage comes from the survey results, rather than a simple average of the four age groups. This way, we can see the difference in pattern on all the hobbies across age groups easily.
 
