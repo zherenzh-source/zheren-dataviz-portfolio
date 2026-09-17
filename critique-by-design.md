@@ -67,9 +67,7 @@ However, I felt that the line chart was still a bit hard to read. The crossing l
 
 ### Final redesigned visualization
 
-[View the final interactive visualization](PASTE_TABLEAU_PUBLIC_URL_HERE)
-
-![Final visualization](images/final-design.png)
+<iframe src="https://public.tableau.com/views/Kidult_Final/Sheet1?:showVizHome=no&amp;:embed=true" title="Final heatmap" width="100%" height="1000" style="border:0;"></iframe>
 
 ### Design decisions and reflection
 
@@ -87,5 +85,5 @@ Compared with the line chart, the heatmap makes it easier to see that younger ad
 
 ## AI acknowledgements
 
-I used Copilot to brainstorm the topic, explore design alternatives, and understand Tableau calculations. I also used ChatGPT to discuss chart options, restructure the CSV into a long-format Excel file with overall percentages from the YouGov results, get guidance on Tableau calculations and formatting, and help draft the final-design explanation. ChatGPT helped organize my written content into this assignment template and clarify the distinction between overall percentages and percentage-point differences. I built the visualizations in Tableau and selected the final design.
+I used Copilot to brainstorm the topic, explore design alternatives, and understand Tableau calculations. I also used it to embed the charts properly.
 
