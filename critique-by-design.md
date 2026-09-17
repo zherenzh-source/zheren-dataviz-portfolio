@@ -6,7 +6,7 @@
 
 [View the original visualization](https://makeovermonday.vercel.app/dataset/do-younger-britons-see-kidult-hobbies-as-less-childish)
 
-![Original visualization](images/original.png)
+![Original visualization](original_viz.png)
 
 I chose to redesign this chart because the visualization is supposed to show whether people of different **age demographics** see hobbies as childish. Different hobbies are shown as separate small multiple bar charts, with the percentage of people in different age groups viewing it as childish. I can see that the charts are organized so that the hobbies viewed as more childish are placed first, so the viewers can read it in some sort of order.
 
