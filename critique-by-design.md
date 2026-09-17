@@ -59,6 +59,7 @@ Both viewers found the small-multiple format difficult to take in. This suggeste
 
 ### Revising the design: a multiple-line chart
 
+<iframe src="https://public.tableau.com/views/Kidult_Line/Sheet12?:showVizHome=no&amp;:embed=true" title="Line chart trial" width="100%" height="850" style="border:0;"></iframe>
 
 With the feedback received, I set out to revise the design. First of all, I still wanted to show the pattern comparison across different hobbies, so I thought a multiple-line graph comparing the views of different age groups across hobbies would be useful. The x-axis shows all the hobbies sorted in descending order of the overall percentage viewing them as entirely or mostly for children. The y-axis shows the percentage-point difference between each age group and the overall public. The overall percentage comes from the survey results, rather than a simple average of the four age groups. This way, we can see the difference in pattern on all the hobbies across age groups easily.
 
