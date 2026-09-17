@@ -35,8 +35,14 @@ I also chose to change the chart type to lines, since that takes away the large 
 
 ### Questions to ask
 
-[Add the interview questions you actually used. The current notes contain feedback summaries but do not record the questions.]
+- Can you tell me what you think this is?
 
+- Can you describe to me what this is telling you?
+
+- Is there anything you find confusing?
+
+- Is there anything you would change or do differently?
+- 
 ### Results
 
 | Feedback topic | Interview 1 | Interview 2 |
