@@ -46,6 +46,7 @@ I also chose to change the chart type to lines, since that takes away the large 
 ### Results
 
 | Feedback topic | Interview 1 | Interview 2 |
+|  | Student(Arts Management) | Student(MISM) |
 |---|---|---|
 | Readability of the sketch | The hand-drawn sketch was not easy to read and needed an explanation. | Not recorded in the notes. |
 | Small-multiple layout | The format was still a lot to take in at once. | The format was distracting. |
