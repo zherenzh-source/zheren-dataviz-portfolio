@@ -1,59 +1,85 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Redesigning How Britons View “Kidult” Hobbies
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+[View the original visualization](https://makeovermonday.vercel.app/dataset/do-younger-britons-see-kidult-hobbies-as-less-childish)
+
+![Original visualization](images/original.png)
+
+I chose to redesign this chart because the visualization is supposed to show whether people of different **age demographics** see hobbies as childish. Different hobbies are shown as separate small multiple bar charts, with the percentage of people in different age groups viewing it as childish. I can see that the charts are organized so that the hobbies viewed as more childish are placed first, so the viewers can read it in some sort of order.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+However, while the colors are not distracting (only red and black), the fact that the same bar chart format is repeated 20 times made me a bit disoriented. I was not sure where to start looking with all of the charts looking so similar. Also, while the layout shows how childish each hobby is viewed overall, and it is easy for the viewer to see that The Lord of the Rings is clearly viewed as less childish than Harry Potter, I find it a bit hard to see the difference in opinions between different age groups. 
+
+So, I want to try to break up the repeating chart format, in order to show where generational differences are large and where opinions are similar. My main idea is that the emphasis of charts should be focused more on the generation gap depending on the hobby. I would try grouping them by the patterns in their responses, like which hobbies show similar opinions across ages,  what cases show younger people viewing it as less childish, what cases show older people viewing it as less childish. 
+
+I think **small multiple line charts** with the four age groups in the same order and a shared percentage scale could be good. This could make different patterns easier to recognize while keeping all four age groups visible. For example, cartoons and board games both have similar responses across age groups, but at very different percentage levels.
 
 ## Step three: Sketch a solution
 
+![Initial sketches](images/sketches.png)
+
+I was trying to explore if grouping different patterns together would make the point stand out. Since the chart is intending to show the perspective difference between younger and older people. I decided to group the small multiple charts into 4 categories:
+
+- All age groups tend to view these hobbies as childish
+- All age groups tend not to view these hobbies as childish
+- Younger people more likely to agree that these hobbies are childish
+- Older people more likely to agree that these hobbies are childish
+
+I also chose to change the chart type to lines, since that takes away the large areas of red bars in the original version, which makes it less distracting in my opinion.
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+### Questions to ask
 
-Questions to ask (modify these for your own interviews): 
+[Add the interview questions you actually used. The current notes contain feedback summaries but do not record the questions.]
 
-- Can you tell me what you think this is?
+### Results
 
-- Can you describe to me what this is telling you?
+| Feedback topic | Interview 1 | Interview 2 |
+|---|---|---|
+| Readability of the sketch | The hand-drawn sketch was not easy to read and needed an explanation. | Not recorded in the notes. |
+| Small-multiple layout | The format was still a lot to take in at once. | The format was distracting. |
+| Use of color | Not recorded in the notes. | Suggested assigning a color to each age group to emphasize the comparison. |
 
-- Is there anything you find surprising or confusing?
+### Synthesis
 
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Both viewers found the small-multiple format difficult to take in. This suggested that grouping the charts alone had not solved the main readability problem. The suggestion to assign a color to each age group led me to try a single chart with four colored lines. I still wanted to preserve all four age groups and compare patterns across hobbies, but I wanted to reduce the number of separate charts viewers had to scan.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+### Revising the design: a multiple-line chart
+
+![Revised version](images/revision-2.png)
+
+With the feedback received, I set out to revise the design. First of all, I still wanted to show the pattern comparison across different hobbies, so I thought a multiple-line graph comparing the views of different age groups across hobbies would be useful. The x-axis shows all the hobbies sorted in descending order of the overall percentage viewing them as entirely or mostly for children. The y-axis shows the percentage-point difference between each age group and the overall public. The overall percentage comes from the survey results, rather than a simple average of the four age groups. This way, we can see the difference in pattern on all the hobbies across age groups easily.
+
+However, I felt that the line chart was still a bit hard to read. The crossing lines, crowded value labels, and vertical hobby names made the age-group differences harder to see at a glance, which is why I moved on to the final design.
+
+### Final redesigned visualization
+
+[View the final interactive visualization](PASTE_TABLEAU_PUBLIC_URL_HERE)
+
+![Final visualization](images/final-design.png)
+
+### Design decisions and reflection
+
+For the final design, I switched to a heatmap to make the differences across age groups easier to see. Each row represents a hobby, and the four columns represent the age groups, ordered from youngest to oldest. I kept the hobbies sorted in descending order of the overall percentage viewing them as entirely or mostly for children. This allows viewers to compare age groups within each hobby and scan down each column to identify broader patterns.
+
+Instead of using color to identify age groups, I used it to show whether each group was more or less likely than the overall public to consider a hobby childish. Orange indicates a lower percentage, blue indicates a higher percentage, and darker colors indicate larger differences. The numbers inside the cells show the same percentage-point differences as the colors, so the two encodings are consistent. I also added an Overall column beside the hobby names to show the baseline for each comparison and make the descending order clear.
+
+Compared with the line chart, the heatmap makes it easier to see that younger adults generally fall below the overall percentage, while older adults generally fall above it. It also makes exceptions easier to spot, such as Disney films, where the youngest group is above the overall percentage and the oldest group is below it. By removing crossing lines and placing the hobby names horizontally, I wanted viewers to spend less time tracing individual values and more time comparing the age-group patterns.
 
 ## References
-_List any references you used here._
+
+- Original visualization: [Makeover Monday](https://makeovermonday.vercel.app/dataset/do-younger-britons-see-kidult-hobbies-as-less-childish)
+- Survey data: YouGov, *Internal_Kidulting_250818.pdf*, fieldwork 17–18 August 2025.
+- Visualization tool: Tableau.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used Copilot to brainstorm the topic, explore design alternatives, and understand Tableau calculations. I also used ChatGPT to discuss chart options, restructure the CSV into a long-format Excel file with overall percentages from the YouGov results, get guidance on Tableau calculations and formatting, and help draft the final-design explanation. ChatGPT helped organize my written content into this assignment template and clarify the distinction between overall percentages and percentage-point differences. I built the visualizations in Tableau and selected the final design.
 
