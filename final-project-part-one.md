@@ -22,7 +22,7 @@ Furthermore, more data of species in the surrounding area could be incorporated 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![Initial sketches](dataviz_redesign.png)
+![Initial sketches](sketc_dataviz.png)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
