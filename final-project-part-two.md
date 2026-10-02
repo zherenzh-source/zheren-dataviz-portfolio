@@ -1,9 +1,34 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+My project follows changes in living coral cover and reef fish at two monitoring sites on the northern coast of Moorea, French Polynesia. The central question is whether the substantial recovery after the first period of coral loss was repeated after the 2019 bleaching event.
+Since Part I, I have developed five Tableau worksheets and begun assembling the narrative in Shorthand. The draft moves from the overall coral-cover record to coral composition, then examines fish density and feeding groups. The charts provide the quantitative evidence. Photographs and planned 3D scenes will help readers understand what living colonies and dead coral skeletons look like underwater.
 
-Text here!
+Shorthand here:
+https://carnegiemellon.shorthandstories.com/can-a-coral-reef-recover-twice/index.html
+
+I intend to run the story like this:
+
+1. Opening	
+
+2. Following two reefs in Moorea
+   
+<iframe
+  src="https://public.tableau.com/views/coral_17909009830940/Coral?:showVizHome=no&amp;:embed=true&amp;:tabs=no&amp;:toolbar=yes"
+  title="Moorea coral cover, 2006–2025"
+  style="width: 100%; height: 600px; border: 0;"
+  allowfullscreen>
+</iframe>
+3. What came back?	
+
+4. What happened to the fish in the ecosystem?	
+
+5. Then What changed in the fish community?	
+
+6. Why has recovery been slower this time?
+
+The 3D scenes are still in development. They will basically serve as 
+
 
 # User research 
 
@@ -55,10 +80,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
