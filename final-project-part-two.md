@@ -63,7 +63,6 @@ The 3D scenes are still in development. They will basically serve as
 
 ## Target audience
 The intended audience is general readers, including university students interested in the environment who have limited or some knowledge of coral reefs. They may know that bleaching damages coral without knowing how living coral cover differs from the physical reef structure, or how different fish groups use reef resources. 
-I plan to recruit at least three people who broadly fit this audience, with different levels of familiarity with environmental topics and data charts. Recruitment will be based on their interests and background rather than agreement with the story's argument. I will describe participants generally and omit names and other identifying information.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -72,9 +71,10 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Understand the main message     |        In your own words, what is this story about? Can you tell immediately?       |
+|    Check chart interpretation  |        Look at this coral chart(or other charts), what do you see, which years or event stands out?          |
+|   Evaluate fish charts   |          How did fish density change? What differences do you notice between the feeding groups?        |
+|Identify confusing or missing elements|  What part confused you, or do you think there is anything to be improved? |
 
 
 Text here!
