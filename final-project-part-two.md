@@ -101,9 +101,9 @@ My priority for Part III is to make the significance of the data easier to under
 
 - Moorea Coral Reef LTER coral-cover dataset, package **knb-lter-mcr.4.44**.
 - Moorea Coral Reef LTER fish-survey dataset, package **knb-lter-mcr.6.65**, including `MCR_LTER_Annual_Fish_Survey_20260304.csv`.
-- [Moorea Coral Reef LTER](https://mcr.lternet.edu/), for project background and dataset access. [ADD THE EXACT DATASET LANDING-PAGE LINKS USED IN PART I.]
+- [Moorea Coral Reef LTER](https://mcr.lternet.edu/), for project background and dataset access. (https://doi.org/10.6073/pasta/15d5120fb4f7b79811b16287eae15a35)
 - Scafidi, K. C., et al. (2026). [Remnant hollowed out dead coral skeleton branches defer coral community recovery](https://doi.org/10.1371/journal.pone.0339527). *PLOS ONE*, 21(3), e0339527.
-- [ADD CREDITS AND LICENCES FOR ANY PHOTOGRAPHS, MODELS, OR TEXTURES ACTUALLY INCLUDED.]
+- marinelifephotography. (https://www.marinelifephotography.com/fishes/fishes.htm)
 
 
 ## AI acknowledgements
