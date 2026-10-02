@@ -22,6 +22,10 @@ I intend to run the story like this:
   allowfullscreen>
 </iframe>
 
+
+
+
+3. What came back?	
 <h3>Coral composition</h3>
 
 <iframe
@@ -30,6 +34,7 @@ I intend to run the story like this:
   style="width: 100%; height: 600px; border: 0;"
   allowfullscreen>
 </iframe>
+4. What happened to the fish in the ecosystem?	
 
 <h3>Fish density</h3>
 
@@ -39,7 +44,7 @@ I intend to run the story like this:
   style="width: 100%; height: 600px; border: 0;"
   allowfullscreen>
 </iframe>
-
+5. Then What changed in the fish community?	
 <h3>Fish trophic groups</h3>
 
 <iframe
@@ -48,12 +53,6 @@ I intend to run the story like this:
   style="width: 100%; height: 800px; border: 0;"
   allowfullscreen>
 </iframe>
-3. What came back?	
-
-4. What happened to the fish in the ecosystem?	
-
-5. Then What changed in the fish community?	
-
 6. Why has recovery been slower this time?
 
 The 3D scenes are still in development. They will basically serve as 
