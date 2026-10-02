@@ -55,8 +55,8 @@ I intend to run the story like this:
 </iframe>
 6. Why has recovery been slower this time?
 
-The 3D demo scenes are still in development.
-
+The 3D demo scenes are still in development:
+![Initial sketches](thumbnail2.png)
 
 
 # User research 
