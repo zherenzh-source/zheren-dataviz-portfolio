@@ -82,7 +82,7 @@ Text here!
 
 | Questions               | MISM student | Arts Management student | ETC Game Design student  |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| Question you asked here | Insightful feedback            |   ...          |       ...      |
 |     What part confused you, or do you think there is anything to be improved?                     | Interesting. But feels like the story element can be stronger if added more explanation to why this is happening.  Maybe related study?               |   Mentions that if the different species of fishes are also shown, people who are less interested in marine biology might be more engaged.          |   Agrees that the ending needs more conclusion, right now it is more like a survey than a story.          |
 
 
