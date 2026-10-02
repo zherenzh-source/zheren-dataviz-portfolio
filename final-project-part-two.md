@@ -76,41 +76,36 @@ Text here!
 |Identify confusing or missing elements|  What part confused you, or do you think there is anything to be improved? |
 
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | MISM student | Arts Management student | ETC Game Design student  |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|     What part confused you, or do you think there is anything to be improved?                     | Interesting. But feels like the story element can be stronger if added more explanation to why this is happening.  Maybe related study?               |   Mentions that if the different species of fishes are also shown, people who are less interested in marine biology might be more engaged.          |   Agrees that the ending needs more conclusion, right now it is more like a survey than a story.          |
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+| Research synthesis | Anticipated changes for Part III |
+|---|---|
+| More explanation of why these changes occurred. | Add context around the major disturbances and delayed recovery of the coral reef. In particular, explain how dead coral skeletons remaining after the 2019 bleaching event may affect new coral growth, and link to the supporting study. |
+| Showing more different fish species | Add representative fish images or 3D models with common names and short descriptions of their feeding roles. Also could incorporate them with the trophic group chart, so people see what fishes each trophic group are|
+| The ending needed a stronger conclusion | Revise the ending to directly address the opening question, “Can a coral reef recover twice?” Emphasize that the first recovery demonstrates what is possible. Shown how brittle the beautiful ecossystem is, and how to protect it. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
+My priority for Part III is to make the significance of the data easier to understand. Also, completing the interactive 3d demo scene.
 
 ## References
-_List any references you used here._
+
+- Moorea Coral Reef LTER coral-cover dataset, package **knb-lter-mcr.4.44**.
+- Moorea Coral Reef LTER fish-survey dataset, package **knb-lter-mcr.6.65**, including `MCR_LTER_Annual_Fish_Survey_20260304.csv`.
+- [Moorea Coral Reef LTER](https://mcr.lternet.edu/), for project background and dataset access. [ADD THE EXACT DATASET LANDING-PAGE LINKS USED IN PART I.]
+- Scafidi, K. C., et al. (2026). [Remnant hollowed out dead coral skeleton branches defer coral community recovery](https://doi.org/10.1371/journal.pone.0339527). *PLOS ONE*, 21(3), e0339527.
+- [ADD CREDITS AND LICENCES FOR ANY PHOTOGRAPHS, MODELS, OR TEXTURES ACTUALLY INCLUDED.]
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Copilot to help explore and check the datasets, work through Tableau calculations, and working with shorthand. I also used ChatGPT to help with my 3d scene creation.
+
 
